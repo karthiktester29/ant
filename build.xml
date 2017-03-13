@@ -2,8 +2,12 @@
    <project name="Hello World Project" default="info">
    
    <target name="info">
-      <echo>Hello World - Welcome to Apache Ant!</echo>
+      <echo>Hello World - Welcome to Apache Ant!</echo>   
+   </target>
+   
+   <target name="info1">
       <mkdir dir="/karthik"/>
    </target>
+
    
 </project>
