@@ -3,6 +3,6 @@
    
    <target name="info">
       <echo>Hello World - Welcome to Apache Ant!</echo> 
-      <echo>Sup!</echo>  
+      <echo>Get a job!</echo>  
    </target>
 </project>
