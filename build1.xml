@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+   <project name="Hello World Project" default="info">
+
+   <target name="info">
+      <echo>Hello Worldohhhhhhhhhhhhhhh to Apache Ant!</echo>
+      <echo>Get a job!</echo>
+   </target>
+</project>
