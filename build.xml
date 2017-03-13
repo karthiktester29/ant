@@ -2,7 +2,8 @@
    <project name="Hello World Project" default="info">
    
    <target name="info">
-      <echo>Hello World - Welcome to Apache Ant!</echo>   
+      <echo>Hello World - Welcome to Apache Ant!</echo> 
+      <echo>Sup man!</echo>  
    </target>
    
    <target name="info1">
