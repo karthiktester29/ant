@@ -3,7 +3,7 @@
    
    <target name="info">
       <echo>Hello World - Welcome to Apache Ant!</echo>
-      <mkdir dir="/karthik/test"/>
+      <mkdir dir="/karthik"/>
    </target>
    
 </project>
