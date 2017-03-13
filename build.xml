@@ -2,7 +2,7 @@
    <project name="Hello World Project by karthik" default="info">
    
    <target name="info">
-      <echo>Hello World - Welcome to Apache Ant!</echo> 
+      <echo>Hello World - Hello world prject from  Karthik</echo> 
       <echo>Get a job!</echo>  
    </target>
 </project>
