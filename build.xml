@@ -3,6 +3,6 @@
    
    <target name="info">
       <echo>Hello World - Hello world prject from  Karthik</echo> 
-      <echo>Get a jobdfv!</echo>  
+      <echo>Get a jobdfdsv!</echo>  
    </target>
 </project>
